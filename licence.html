@@ -1,0 +1,106 @@
+<html>
+    <head>
+        <title>DEEPLOVEV2</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://kit.fontawesome.com/e27f4a4600.js" crossorigin="anonymous"></script>
+        <script src="/backend/main.js"></script>
+    </head>
+
+    <body>
+        <form autocomplete="off">
+            <div class="ui-content">
+                <input type="text" id="console" name="consolas" placeholder="> command line goes here..."><br>
+        </form>
+    </body>
+</html>
+
+<style>
+
+:root {
+    --primary-color: #42f593;
+    --secondary-color: #5555558e;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    user-select: none;
+   -webkit-user-select: none; 
+   -khtml-user-select: none; 
+   -moz-user-select: none; 
+   -ms-user-select: none; 
+}
+
+::selection {
+    color: none;
+    background: none;
+}
+/* For Mozilla Firefox */
+::-moz-selection {
+    color: none;
+    background: none;
+}
+
+*, *::after, *::before {
+	-webkit-user-drag: none;
+	-webkit-app-region: no-drag;
+	cursor: default;
+}
+
+body {
+    font-family: var(--primary-font);
+    text-align: center;
+}
+
+form {
+    display: block;
+    width: 99.9%;
+    height: 99.8%;
+    border-style: solid;
+    border: 1px solid var(--primary-color);
+    background: rgb(1, 1, 1);
+}
+
+.ui-content {
+    position: relative;
+    top: 36%;
+}
+
+input, ::placeholder {
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.2vh;
+    margin-left: 1vh;
+    line-height: 100;
+    border: none;
+    background-color: transparent;
+    float: left;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+</style>
+
+<script>
+function console() {
+    event.preventDefault();
+    var consol = document.getElementById("login").value
+
+    if (consol === "console") {
+        window.location.replace('/frontend/licence.html');
+    } else {
+        window.location.replace('/frontend/wrong.html');
+    }
+
+    console.log("your username is " + consol + " and password " + password)
+}
+</script>

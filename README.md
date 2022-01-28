@@ -24,6 +24,4 @@
 <!-- YOUTUBE:START -->
 - [How to code: Licence system with random strings inside output.](https://www.youtube.com/watch?v=WZQSVv67NBc)
 <!-- YOUTUBE:END -->
-
-git tag <tgadsa>
 ---

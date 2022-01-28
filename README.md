@@ -26,12 +26,3 @@
 <!-- YOUTUBE:END -->
 
 ---
-
-<details>
-  <summary>💥 Collab?</summary>
-
-- 🌎 Send me a DM on discord, and we will surely talk!
-- https://discord.gg/zp5fhFe8mp
-
-</details>
-

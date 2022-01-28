@@ -5,8 +5,15 @@
 - 🫂 I’m looking to collaborate with other content creators.
 - 👑 2022 Goals: Creating advanced UI's including JavaScript.
 
-## Preview
-![Preview1](https://user-images.githubusercontent.com/36562445/98484349-152c2300-220f-11eb-84a0-1c3c57415d64.png)
+## UI Preview
+- Login Page
+![Preview1](https://i.imgur.com/JCxNQhl.png)
+
+- Good Login
+![Preview1](https://i.imgur.com/2Y3cc4h.png)
+
+- Wrong Login
+![Preview1](https://i.imgur.com/MtFx4Ol.png)
 
 ## Languages and Libraries:
 

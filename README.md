@@ -23,12 +23,6 @@
 - Login Page
 ![Preview1](https://i.imgur.com/JCxNQhl.png)
 
-- Good Login
-![Preview1](https://i.imgur.com/2Y3cc4h.png)
-
-- Wrong Login
-![Preview1](https://i.imgur.com/MtFx4Ol.png)
-
 ## Latest Videos:
 
 <!-- YOUTUBE:START -->

@@ -1,10 +1,8 @@
 <html>
     <head>
-        <title>DEEPLOVEV2</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://kit.fontawesome.com/e27f4a4600.js" crossorigin="anonymous"></script>
-        <script src="/backend/main.js"></script>
     </head>
 
     <body>
@@ -87,20 +85,4 @@ textarea:focus,
 button:focus {
     outline: none;
 }
-
 </style>
-
-<script>
-function console() {
-    event.preventDefault();
-    var consol = document.getElementById("login").value
-
-    if (consol === "console") {
-        window.location.replace('/frontend/licence.html');
-    } else {
-        window.location.replace('/frontend/wrong.html');
-    }
-
-    console.log("your username is " + consol + " and password " + password)
-}
-</script>

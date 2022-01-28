@@ -19,8 +19,7 @@
 
 ---
 
-## UI Preview
-- Login Page
+## Login Page
 ![Preview1](https://i.imgur.com/JCxNQhl.png)
 
 ## Latest Videos:

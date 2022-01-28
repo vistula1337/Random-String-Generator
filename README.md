@@ -31,8 +31,7 @@
   <summary>💥 Looking for a collaboration?</summary>
 
 - 🌎 Send me a DM on discord, and we will surely talk!
+- https://discord.gg/zp5fhFe8mp
 
 </details>
-
-[youtube]: https://www.youtube.com/channel/UCyzGyBxzdDpha4EhFbgCfaw
 

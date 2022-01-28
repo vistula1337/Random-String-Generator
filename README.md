@@ -1,5 +1,3 @@
-### Welcome at OFFVIXEN Github page. Join our Discord 👋 
-
 ## I'm 17 Years Old Developer / Lead Developer.
 
 - 💻 I'm wroking on AdrenalinaRP, GrandRDM.

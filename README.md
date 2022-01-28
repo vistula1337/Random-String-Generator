@@ -5,7 +5,10 @@
 - 🫂 I’m looking to collaborate with other content creators.
 - 👑 2022 Goals: Creating advanced UI's including JavaScript.
 
-### Languages and Libraries:
+## Preview
+![Preview1](https://user-images.githubusercontent.com/36562445/98484349-152c2300-220f-11eb-84a0-1c3c57415d64.png)
+
+## Languages and Libraries:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

@@ -5,16 +5,6 @@
 - 🫂 I’m looking to collaborate with other content creators.
 - 👑 2022 Goals: Creating advanced UI's including JavaScript.
 
-## UI Preview
-- Login Page
-![Preview1](https://i.imgur.com/JCxNQhl.png)
-
-- Good Login
-![Preview1](https://i.imgur.com/2Y3cc4h.png)
-
-- Wrong Login
-![Preview1](https://i.imgur.com/MtFx4Ol.png)
-
 ## Languages and Libraries:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -29,7 +19,17 @@
 
 ---
 
-### Latest Videos:
+## UI Preview
+- Login Page
+![Preview1](https://i.imgur.com/JCxNQhl.png)
+
+- Good Login
+![Preview1](https://i.imgur.com/2Y3cc4h.png)
+
+- Wrong Login
+![Preview1](https://i.imgur.com/MtFx4Ol.png)
+
+## Latest Videos:
 
 <!-- YOUTUBE:START -->
 - [How to code: Licence system with random strings inside output.](https://www.youtube.com/watch?v=WZQSVv67NBc)

@@ -1,4 +1,4 @@
-## I'm 17 Years Old Developer / Lead Developer.
+## I'm 17 Years Old Frontend/Backend Developer.
 
 - I’m currently learning JavaScript.
 - I’m looking to collaborate with other content creators.

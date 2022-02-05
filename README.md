@@ -1,9 +1,8 @@
 ## I'm 17 Years Old Developer / Lead Developer.
 
-- 💻 I'm wroking on AdrenalinaRP, GrandRDM.
-- 🪙 I’m currently learning JavaScript.
-- 🫂 I’m looking to collaborate with other content creators.
-- 👑 2022 Goals: Creating advanced UI's including JavaScript.
+- I’m currently learning JavaScript.
+- I’m looking to collaborate with other content creators.
+- 2022 Goals: Creating advanced UI's including JavaScript.
 
 ## Languages and Libraries:
 

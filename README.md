@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vistula1337](https://github.com/vistula1337)
 
-- 📫 How to reach me **v i s t u l a#1337**
+- 📫 How to reach me? DM me on discord: **v i s t u l a#1337**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
